@@ -1,0 +1,3 @@
+---
+server.servlet.context-path: /itemapi
+eureka.client.serviceUrl.defaultZone: http://localhost:8761/eureka
