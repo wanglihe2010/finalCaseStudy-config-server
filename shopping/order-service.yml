@@ -5,7 +5,7 @@ server.servlet.context-path: /api
 #allow bean override for proxy
 spring.main.allow-bean-definition-overriding: true
 
-feign.hystrix.enable: true
+feign.hystrix.enabled: true
 
 # Hibernate & JPA settings
 # automatically add or update table
