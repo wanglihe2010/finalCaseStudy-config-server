@@ -5,8 +5,9 @@ server.servlet.context-path: /api
 # Hibernate & JPA settings
 # automatically add or update table
 spring.jpa.hibernate.ddl-auto: update
-spring.jpa.database-platform=org.hibernate.dialect.H2Dialect
-spring.h2.console.enabled=true
+
+spring.jpa.database-platform: org.hibernate.dialect.H2Dialect
+spring.h2.console.enabled: true
 
 #H2DB
 spring:
