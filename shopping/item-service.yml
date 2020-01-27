@@ -1,6 +1,6 @@
 ---
 #server.port: 9292
-server.servlet.context-path: /item-api
+server.servlet.context-path: /item-api2
 
 # Hibernate & JPA settings
 # automatically add or update table
